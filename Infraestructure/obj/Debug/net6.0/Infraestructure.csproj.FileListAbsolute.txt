@@ -1,0 +1,37 @@
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Domain.dll
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Utils.dll
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Domain.pdb
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\bin\Debug\net6.0\Utils.pdb
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+F:\3.PROYECTOS\EvTecnica\Solution\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Domain.dll
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\bin\Debug\net6.0\Domain.pdb
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.sourcelink.json
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraest.B0D41582.Up2Date
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+D:\1. PERSONAL\Projects\CleanArch\Solution\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll

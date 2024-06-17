@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("AzureSQLDatabaseConnection"), sqlServerOptions =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SQLServerLocalConnection"), sqlServerOptions =>
     sqlServerOptions.EnableRetryOnFailure(
         maxRetryCount: 5,
         maxRetryDelay: TimeSpan.FromSeconds(30),
