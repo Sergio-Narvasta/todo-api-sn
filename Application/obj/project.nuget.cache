@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQ2HP5TMJIaFthFZeetFVBgsyLWD+TVTiIOEiS1EV7CUqCNg2fANXZnahFtR84GBOrJ6R15qeAJuMStvQiv2Ng==",
+  "dgSpecHash": "mKhIpafdnxTp5YlU9oCPWVEaLIqygDbGJ3G5N5+FvKEmWVMYqzTD4vR7xSaRcdWSpaSJFUh016QUI584jOSHAQ==",
   "success": true,
-  "projectFilePath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\Application.csproj",
+  "projectFilePath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

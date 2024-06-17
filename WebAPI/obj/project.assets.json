@@ -3957,11 +3957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\",
-      "outputPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\WebAPI\\obj\\",
+      "outputPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergio Narvasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3978,8 +3978,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\Application.csproj": {
-              "projectPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\Application.csproj"
+            "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\Application.csproj": {
+              "projectPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\Application.csproj"
             }
           }
         }

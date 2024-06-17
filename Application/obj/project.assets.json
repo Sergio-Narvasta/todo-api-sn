@@ -3264,11 +3264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\Application.csproj",
+      "projectPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\",
-      "outputPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Application\\obj\\",
+      "outputPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergio Narvasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3285,11 +3285,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Domain\\Domain.csproj"
+            "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Domain\\Domain.csproj"
             },
-            "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "D:\\1. PERSONAL\\Projects\\CleanArch\\Solution\\Infraestructure\\Infraestructure.csproj"
+            "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }
