@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9007E746-5B7C-4168-8E4A-56FA981FBBF4}|WebAPI\\WebAPI.csproj|d:\\1. personal\\projects\\todo.api.v6.git\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9007E746-5B7C-4168-8E4A-56FA981FBBF4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EAB7D1A-2CE0-479D-9374-5F88EB026592}|Infraestructure\\Infraestructure.csproj|d:\\1. personal\\projects\\todo.api.v6.git\\infraestructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EAB7D1A-2CE0-479D-9374-5F88EB026592}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:34:38.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\Infraestructure\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Repositories\\TaskRepository.cs",

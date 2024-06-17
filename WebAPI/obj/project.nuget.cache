@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vfVCCOQccaYNM5kXw1drqjSbcT+uHQm+ZKC/WVSPMh1g3vkI1elO/smxV5TOJhW7iynde1S32i9kKui54eZa9Q==",
+  "dgSpecHash": "FDg5CM6tT/vwyTOOasCALoiOwjndg/va9zY2qM5DnFqQ6B3XlySmaM7FGKpAeRNIE9lKcGk3oZSzyaaEsszu+A==",
   "success": true,
   "projectFilePath": "D:\\1. PERSONAL\\Projects\\ToDo.API.v6.Git\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
-    "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.10\\microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\Sergio Narvasta\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.10\\microsoft.entityframeworkcore.sqlserver.7.0.10.nupkg.sha512",
