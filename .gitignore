@@ -1,0 +1,22 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation
+/.vs/ToDo/config
+/.vs/ToDo/DesignTimeBuild
+/.vs/ToDo/FileContentIndex
+/.vs/ToDo/v17
+/.vs
+/ToDo.API/bin/Debug/net8.0
+/ToDo.API/obj/Debug/net8.0
+/ToDo.API/obj
+/ToDo.Application/bin/Debug/net8.0
+/ToDo.Application/obj/Debug/net8.0
+/ToDo.Application/obj
+/ToDo.Domain/bin/Debug/net8.0
+/ToDo.Domain/obj/Debug/net8.0
+/ToDo.Domain/obj
+/ToDo.Infraestructure/bin/Debug/net8.0
+/ToDo.Infraestructure/obj/Debug/net8.0
+/ToDo.Infraestructure/obj
